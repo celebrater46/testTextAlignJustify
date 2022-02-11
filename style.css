@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    color: silver;
+    text-align: center;
+}
+
+div#containter{
+    width: 640px;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #333333;
+}
+
+p{
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    line-height: 150%;
+}
+
+p#even{
+    width: 100%;
+}
